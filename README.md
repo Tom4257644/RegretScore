@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This is a fun quick website I completed recently to practice the basics of my web development skills. The idea is if you are about to make a big decision, you come to this website and search for the decision to find out what proportion of users regreted making it. The main purpose of creating this website was to practice using JavaScript to update the database.
+This is a fun, quick website I completed recently to practice the basics of my web development skills. The idea is if you are about to make a big decision, you come to this website and search for the decision to find out what proportion of users regretted making it. The main purpose of creating this website was to practice using JavaScript to update the database.
 
 <br />
 
@@ -30,13 +30,5 @@ This is a fun quick website I completed recently to practice the basics of my we
 <img src="https://i.imgur.com/rSeNy7l.png" height="40%" width="40%" alt="Gameplay"/>
 <br />
 <img src="https://i.imgur.com/yRal2z1.png" height="80%" width="80%" alt="Gameplay"/>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<br />
+- [Back to projects](https://github.com/Tom4257644/Tom4257644.github.io/blob/main/README.md)
